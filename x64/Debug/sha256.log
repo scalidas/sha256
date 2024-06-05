@@ -1,0 +1,3 @@
+﻿  sha256.cpp
+C:\Users\calid\OneDrive\Documents\Programming\sha256\sha256\sha256.cpp(109,10): warning C4552: '+': result of expression not used
+  sha256.vcxproj -> C:\Users\calid\OneDrive\Documents\Programming\sha256\x64\Debug\sha256.exe
